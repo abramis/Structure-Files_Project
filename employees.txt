@@ -1,0 +1,12 @@
+11
+Lockers, Daniel;Engineer;53500
+Adamson, John;Manager;77500
+Newhall, Bob;Programmer;40000
+Brown, James;Clerk;28000
+Cheng, Linda;Accountant;35500
+Lipmann, Charles;Programmer;45500
+Watt, James;Electrician;30000
+Jones, Mary;Manager;70500
+Lockers, Dennis;Programmer;41000
+Green, Sylvester;Clerk;30000
+Lubbers, Pieter;Scientist;60000

@@ -1,0 +1,11 @@
+Adamson, John;Manager;77500 0
+Brown, James;Clerk;28000 0
+Cheng, Linda;Accountant;35500 0
+Green, Sylvester;Clerk;30000 0
+Jones, Mary;Manager;70500 0
+Lipmann, Charles;Programmer;45500 0
+Lockers, Daniel;Engineer;53500 0
+Lockers, Dennis;Programmer;41000 0
+Lubbers, Pieter;Scientist;60000 0
+Newhall, Bob;Programmer;40000 0
+Watt, James;Electrician;30000 0
